@@ -1,0 +1,4 @@
+1. Please add all three files named RainSensorsTEP in the proteus library.
+2. After opening the project, double click on the blue rain sensor.
+3. A pop-up window will appear and there in the program file option enter the path of RainSensorsTEP.HEX
+4. Now, run the simulation.
